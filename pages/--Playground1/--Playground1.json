@@ -29,7 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "--Playground1_fetchAstronauts",
               "name": "fetchAstronauts",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -39,7 +38,6 @@
           ],
           [
             {
-              "id": "--Playground1_filteredAstronauts",
               "name": "filteredAstronauts",
               "confirmBeforeExecute": false,
               "pluginType": "API",

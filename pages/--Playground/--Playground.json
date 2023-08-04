@@ -29,7 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "--Playground_JSObject14.myFun1",
               "name": "JSObject14.myFun1",
               "collectionId": "--Playground_JSObject14",
               "clientSideExecution": true,
@@ -41,7 +40,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "--Playground_JSObject14.myFun2",
               "name": "JSObject14.myFun2",
               "collectionId": "--Playground_JSObject14",
               "clientSideExecution": true,

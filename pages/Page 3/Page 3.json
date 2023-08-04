@@ -28,7 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page 3_TC5.storeLocation",
               "name": "TC5.storeLocation",
               "collectionId": "Page 3_TC5",
               "confirmBeforeExecute": false,

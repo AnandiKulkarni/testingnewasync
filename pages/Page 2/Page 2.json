@@ -28,7 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page 2_Api1",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -38,7 +37,6 @@
           ],
           [
             {
-              "id": "Page 2_TC4_main.both",
               "name": "TC4_main.both",
               "collectionId": "Page 2_TC4_main",
               "confirmBeforeExecute": false,
